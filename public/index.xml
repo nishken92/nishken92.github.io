@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nisanth Kennath</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nisanth Kennath</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2025 20:14:20 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5G Network</title>
+      <link>http://localhost:1313/topics/5gnetwork/</link>
+      <pubDate>Fri, 30 May 2025 20:14:20 +0530</pubDate>
+      <guid>http://localhost:1313/topics/5gnetwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Generations</title>
+      <link>http://localhost:1313/topics/telecommunications/</link>
+      <pubDate>Wed, 28 May 2025 22:29:55 +0530</pubDate>
+      <guid>http://localhost:1313/topics/telecommunications/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Telecom generations from 1G to 5G can be considered as different network architecture&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1G : Provided basic Voice call services&lt;/li&gt;&#xA;&lt;li&gt;2G : Based on GSM network. Provided voice call services SMS services and Data services are introduced. Both used circuit switching&lt;/li&gt;&#xA;&lt;li&gt;2.5G : This is a bridge stage between 2G and 3G. Data services used Packet switching&lt;/li&gt;&#xA;&lt;li&gt;3G : This is based on completely new network architecture, that is UMTS&lt;/li&gt;&#xA;&lt;li&gt;4G : Also called long term evolution. Both Voice and Data services are packet switched&lt;/li&gt;&#xA;&lt;li&gt;5G : Enhanced network than 4G LTE with low latency&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;standardizing-units&#34;&gt;Standardizing Units&lt;/h3&gt;&#xA;&lt;p&gt;Telecommunication industry standards are decided by two international entities&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topics</title>
+      <link>http://localhost:1313/topics/</link>
+      <pubDate>Wed, 28 May 2025 22:29:42 +0530</pubDate>
+      <guid>http://localhost:1313/topics/</guid>
+      <description>&lt;p&gt;Topics&#xA;&lt;a href=&#34;http://localhost:1313/topics/telecommunications/&#34;&gt;Telecommunications&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 28 May 2025 20:56:00 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Software Engineer&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;li&gt;test2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/intro/</link>
+      <pubDate>Wed, 28 May 2025 19:28:53 +0530</pubDate>
+      <guid>http://localhost:1313/intro/</guid>
+      <description>&lt;p&gt;This is sample text&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/topics/5gnetwork/</loc>
+    <lastmod>2025-05-30T20:14:20+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-30T20:14:20+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/telecommunications/</loc>
+    <lastmod>2025-05-28T22:29:55+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/</loc>
+    <lastmod>2025-05-28T22:29:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-05-28T20:56:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intro/</loc>
+    <lastmod>2025-05-28T19:28:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
