@@ -3,5 +3,10 @@
 	url = https://github.com/nanxiaobei/hugo-paper.git
 
 [submodule "themes/hugo-paper"]
+<<<<<<< HEAD
 	path = themes/hugo-paper
 	url = https://github.com/nanxiaobei/hugo-paper.git
+=======
+    path = themes/hugo-paper
+    url = https://github.com/nanxiaobei/hugo-paper.git 
+>>>>>>> da70b96 (fix submodule)
