@@ -17,4 +17,26 @@ If a variable is declared global, the variable’s global version only get modif
 Once a class is defined, a new namespace is created. Function definitions binds the name of the function here in the class’s namespace. 
 
 ## Class Objects
+
+Class object has two functions, one is attribute reference and another one is instantiation. Attribute reference syntax is the standard one as obj.name. The names of the attributes depends on the names in the corresponding class’s namespace. 
+
+## Instance Objects.
+
+Instance objects are not required to be instantiated along with the class. If a class is defined, in any subsequent line after the class defintition, a attribute can be added to the class via simple dot product.
+
+class Numbers:
+	pass
+Numbers.i = 10
+
+The above lines are completely accepted. Please note, a value must be assigned to the variable. Method references of an instance object is valid only when the method name is defined inside the class body. However, the class method instance method are referring to two different memory locations. 
+
+## Method Objects
+
+In the below example, function mouth is bounded to the class Human. Argument self is given as method takes the calling object itself as an input first Once the instance object x is created, it can call the mount function without any argument. This is because any method will automatically pass the calling object as first argument. In other words, if a function is called with N arguments by an object of P data attributes, the function is actually called with N + P arguments. 
+
+class Human:
+    def mount(self):
+        print("Humans use mouth to speak")
+x = Human()
+x.mount()
  
