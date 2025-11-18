@@ -39,4 +39,11 @@ class Human:<br>
         print("Humans use mouth to speak")<br>
 x = Human()<br>
 x.mount()<br>
- 
+
+## Class and Instance Variable
+
+Class variables are general variables used by all instances, but instance variables are unique to the objects.
+
+## Additional Topics
+
+If a same variable name appears in class and instance, python will prioritize the instance variables. A function object binded to a class invariently creates that function object for the instances too. There is no need for the function object need to be enclosed within the class body. Function reference cab be assigned to a variable in the class. 
